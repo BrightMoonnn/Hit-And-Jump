@@ -33,4 +33,4 @@ El juego incluye las siguientes mecánicas programadas desde cero:
 *Nota: Este repositorio se creó con fines estrictamente académicos y de aprendizaje.*
 
 ## Muestra del juego:
-![Gameplay](./Media/HitNJump.gif).
+![Gameplay](./Media/juego.gif)
