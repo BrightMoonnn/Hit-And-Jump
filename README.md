@@ -19,8 +19,8 @@ El juego incluye las siguientes mecánicas programadas desde cero:
 
 ## Tecnologías Utilizadas
 
-*   **Motor Gráfico:** Unity / Godot *(Completa con el motor que uses)*
-*   **Lenguaje de Programación:** C# / GDScript *(Completa con tu lenguaje)*
+*   **Motor Gráfico:** Unity*
+*   **Lenguaje de Programación:** C#*
 *   **Assets:** Assets, música y sonidos proporcionados por el curso de Domestika.
 
 ## Cómo Jugar (Controles Básicos)
